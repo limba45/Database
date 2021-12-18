@@ -1,0 +1,11 @@
+﻿Ward_ID,Ward_Name,Floor_Number
+1,Outpatient Department (OPD),8
+2,Inpatient Service (IP),7
+3,Medical Department,4
+4,Nursing Department,3
+5,Paramedical Departments,6
+6,Pathology Department,1
+7,Physical Medicine and Rehabilitation Department,1
+8,Operation Theatre Complex (OT),5
+9,Pharmacy Department,1
+10,Radiology Department (X-ray Department),3

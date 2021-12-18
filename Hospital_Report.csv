@@ -1,0 +1,11 @@
+﻿Report_ID,Report_Name,Report_Date,Report_Amount,Report_Category
+1,gastric fluid analysis,8/10/2021,$45.00,laboratory reports
+2,kidney function test,8/11/2021,$190.00,laboratory reports
+3,liver function test,8/22/2021,$200.00,laboratory reports
+4,lumbar puncture,9/10/2021,$220.00,laboratory reports
+5,blood count,9/25/2021,$100.00,laboratory reports
+6,blood typing,10/23/2021,$150.00,laboratory reports
+7,bone marrow aspiration,10/10/2021,$900.00,laboratory reports
+8,cephalin-cholesterol flocculation,11/15/2021,$300.00,laboratory reports
+9,enzyme analysis,11/22/2021,$150.00,laboratory reports
+10,toxicology test,12/23/2021,$110.00,laboratory reports
